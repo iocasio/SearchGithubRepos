@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SearchGithubRepos</string>
+
+    <string name="repo_name">Repository Name: %s</string>
+    <string name="repo_description">Description: %s</string>
+    <string name="repo_stargazer_count">StarGazer Count: %d</string>
+    <string name="organization_name_edit_text_hint">Enter Github Organization Name</string>
+    <string name="search_button_text">search</string>
+    <string name="organization_edit_text_empty_text_error">You haven\'t entered any text.</string>
+    <string name="fetch_repos_api_failed">Api failed. It\'s backend\'s fault.</string>
+</resources>

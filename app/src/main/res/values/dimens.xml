@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="repo_item_height">100dp</dimen>
+    <dimen name="repo_item_marginVertical">10dp</dimen>
+    <dimen name="repo_item_owner_avatar_dimens">75dp</dimen>
+    <dimen name="repo_item_owner_avatar_marginStart">10dp</dimen>
+    <dimen name="repo_item_repo_name_marginHorizontal">5dp</dimen>
+    <dimen name="repo_list_marginTop">5dp</dimen>
+    <dimen name="organization_name_editText_textSize">15sp</dimen>
+    <dimen name="search_button_textSize">13sp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="organization_name_editText_textSize">13sp</dimen>
+    <dimen name="search_button_textSize">13sp</dimen>
+
+</resources>
